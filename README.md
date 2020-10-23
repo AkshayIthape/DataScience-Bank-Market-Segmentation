@@ -1,4 +1,4 @@
-# DataScience-HumanResourcesDepartment-
+# DataScience-HumanResourcesDepartment-Python
 Based on Extensive employee data develop a model to predict which employees are likely to quit.
 
 * Carried out a marketing campaign by dividing the past 6 month customer’s data in 3 distinctive groups to identify the customer needs.
